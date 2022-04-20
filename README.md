@@ -1,5 +1,11 @@
 # gas-slack-bot
 
+# setup
+delete line ./node_modules/typescript/lib/lib.dom.d.ts:329
+
+due to
+https://github.com/DefinitelyTyped/DefinitelyTyped/issues/32585
+
 # recommend
 npm install -g clasp
 
