@@ -19,6 +19,7 @@ clasp deploy
 
 refs:
 - https://zenn.dev/hotaka_noda/articles/4a6f0ccee73a18
+- https://dev.classmethod.jp/articles/vscode-clasp-setting/
 
 # preparation for slack
 
